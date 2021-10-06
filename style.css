@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300;400&display=swap");
+
+main {
+  font-size: 10px;
+  width: 800px;
+  clear: both;
+  text-align: left;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
+  width: 800px;
+  clear: both;
+  text-align: left;
+}
+
+body {
+  font-size: 20px;
+  background: orange;
+  font-family: "Gemunu Libre", sans-serif;
+}
+
+#posicaoimg01 {
+  /*foto do escritório vazio do Grupo FCamara    */
+  position: absolute;
+  top: 120px;
+  right: -10px;
+  width: 690px;
+  height: 400px;
+}
+
+#posicaoimg02 {
+  /*foto de duas pessoas no escritório do Grupo FCamara    */
+  position: absolute;
+  top: 540px;
+  right: -10px;
+  width: 690px;
+  height: 400px;
+}
+
+#posicaoimg03 {
+  /*imagem com 4 pessoas num escritório    */
+}
+
+#posicaoimg04 {
+  /*imagem do mapa do Estado de SP    */
+}
+
+#posicaoimg05 {
+  /*desenho de um calendário    */
+  width: 60%;
+  height: 45%;
+}
+
+#posicaoimg06 {
+  /*foto de estações de trabalho vazias    */
+  position: absolute;
+  top: 960px;
+  right: -10px;
+  width: 690px;
+  height: 400px;
+}
+
+.textoTemperatura {
+  word-break: break-all;
+  text-align: right;
+  position: absolute;
+  top: 1345px;
+  right: 5px;
+}
+
+#posicaoimg07 {
+  /*desenho de uma pessoa com máscara e um termômetro medindo sua temperatura    */
+  position: absolute;
+  top: 1400px;
+  right: -10px;
+  width: 690px;
+  height: 400px;
+}
+
+#posicaoimg08 {
+  /*desenho de estações de trabalho respeitando o distanciamento social*/
+}
+
+.textoSintoma {
+  word-break: break-all;
+  text-align: right;
+  position: absolute;
+  top: 1790px;
+  right: 5px;
+}
+
+#posicaoimg09 {
+  /*desenho de uma pessoa e sintomas do Covid    */
+  position: absolute;
+  top: 1860px;
+  right: -10px;
+  width: 690px;
+  height: 400px;
+}
+
+#posicaoimg10 {
+  /*desenho de proibido aglomeração    */
+  width: 60%;
+  height: 45%;
+}
+
+.textoEnfase01 {
+  position: absolute;
+  top: 2280px;
+  right: 150px;
+}
+
+.textoEnfase02 {
+  text-align: center;
+  word-break: break-all;
+  position: absolute;
+  top: 2310px;
+  right: 5px;
+}
+
+.textoEnfase03 {
+  word-break: break-all;
+  position: absolute;
+  top: 2340px;
+  right: 50px;
+}
+.textoEnfase04 {
+  word-break: break-all;
+  position: absolute;
+  top: 2370px;
+  right: 55px;
+}
+
+.textoEnfase05 {
+  word-break: break-all;
+  position: absolute;
+  top: 2400px;
+  right: 35px;
+}
+
+#posicaoimg11 {
+  /*logo Alura    */
+  position: absolute;
+  top: 2550px;
+  right: 350px;
+}
+
+#posicaoimg12 {
+  /*logo Grupo FCamara  */
+  position: absolute;
+  top: 2550px;
+  right: 25px;
+}
