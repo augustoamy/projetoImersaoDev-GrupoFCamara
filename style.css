@@ -29,8 +29,8 @@ body {
   position: absolute;
   top: 120px;
   right: -10px;
-  width: 690px;
-  height: 400px;
+/*      width: 48%; */ */
+/*      height: 30%; */ */
 }
 
 #posicaoimg02 {
@@ -38,8 +38,8 @@ body {
   position: absolute;
   top: 540px;
   right: -10px;
-  width: 690px;
-  height: 400px;
+/*   width: 690px; */
+/*   height: 400px; */
 }
 
 #posicaoimg03 {
@@ -52,8 +52,8 @@ body {
 
 #posicaoimg05 {
   /*desenho de um calendário    */
-  width: 60%;
-  height: 45%;
+/*   width: 60%; */
+/*   height: 45%; */
 }
 
 #posicaoimg06 {
@@ -61,8 +61,8 @@ body {
   position: absolute;
   top: 960px;
   right: -10px;
-  width: 690px;
-  height: 400px;
+/*   width: 690px; */
+/*   height: 400px; */
 }
 
 .textoTemperatura {
@@ -78,8 +78,8 @@ body {
   position: absolute;
   top: 1400px;
   right: -10px;
-  width: 690px;
-  height: 400px;
+/*   width: 690px; */
+/*   height: 400px; */
 }
 
 #posicaoimg08 {
@@ -99,14 +99,14 @@ body {
   position: absolute;
   top: 1860px;
   right: -10px;
-  width: 690px;
-  height: 400px;
+/*   width: 690px; */
+/*   height: 400px; */
 }
 
 #posicaoimg10 {
   /*desenho de proibido aglomeração    */
-  width: 60%;
-  height: 45%;
+/*   width: 60%; */
+/*   height: 45%; */
 }
 
 .textoEnfase01 {
