@@ -1,21 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300;400&display=swap");
 
-main {
-  font-size: 10px;
-  width: 800px;
-  clear: both;
-  text-align: left;
-}
-
-h1 {
-  font-size: 40px;
-}
-
-h2 {
-  font-size: 20px;
-  width: 800px;
-  clear: both;
-  text-align: left;
+.vacinacao {
 }
 
 body {
@@ -24,173 +9,22 @@ body {
   font-family: "Gemunu Libre", sans-serif;
 }
 
-#posicaoimg01 {
-  /*foto do escritório vazio do Grupo FCamara    */
-  position: absolute;
-  top: 120px;
-  right: -10px;
-/*      width: 48%; */ */
-/*      height: 30%; */ */
-      max-width: fit-content;
-    max-height: fit-content;
+.container {
+  display: flex;
 }
 
-#posicaoimg02 {
-  /*foto de duas pessoas no escritório do Grupo FCamara    */
-  position: absolute;
-  top: 540px;
-  right: -10px;
-/*   width: 690px; */
-/*   height: 400px; */
-      max-width: fit-content;
-    max-height: fit-content;
+.titulo {
+  horizontal-align: middle;
 }
 
-#posicaoimg03 {
-  /*imagem com 4 pessoas num escritório    */
-      max-width: fit-content;
-    max-height: fit-content;
+.child {
+  width: 100%;
+  /*   height: 200px; */
+  border-radius: 20px;
 }
 
-#posicaoimg04 {
-  /*imagem do mapa do Estado de SP    */
-      max-width: fit-content;
-    max-height: fit-content;
+.logoAlura {
 }
 
-#posicaoimg05 {
-  /*desenho de um calendário    */
-/*   width: 60%; */
-/*   height: 45%; */
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg06 {
-  /*foto de estações de trabalho vazias    */
-  position: absolute;
-  top: 960px;
-  right: -10px;
-/*   width: 690px; */
-/*   height: 400px; */
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoTemperatura {
-  word-break: break-all;
-  text-align: right;
-  position: absolute;
-  top: 1345px;
-  right: 5px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg07 {
-  /*desenho de uma pessoa com máscara e um termômetro medindo sua temperatura    */
-  position: absolute;
-  top: 1400px;
-  right: -10px;
-/*   width: 690px; */
-/*   height: 400px; */
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg08 {
-  /*desenho de estações de trabalho respeitando o distanciamento social*/
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoSintoma {
-  word-break: break-all;
-  text-align: right;
-  position: absolute;
-  top: 1790px;
-  right: 5px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg09 {
-  /*desenho de uma pessoa e sintomas do Covid    */
-  position: absolute;
-  top: 1860px;
-  right: -10px;
-/*   width: 690px; */
-/*   height: 400px; */
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg10 {
-  /*desenho de proibido aglomeração    */
-/*   width: 60%; */
-/*   height: 45%; */
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoEnfase01 {
-  position: absolute;
-  top: 2280px;
-  right: 150px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoEnfase02 {
-  text-align: center;
-  word-break: break-all;
-  position: absolute;
-  top: 2310px;
-  right: 5px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoEnfase03 {
-  word-break: break-all;
-  position: absolute;
-  top: 2340px;
-  right: 50px;   
-  max-width: fit-content;
-    max-height: fit-content;
-}
-.textoEnfase04 {
-  word-break: break-all;
-  position: absolute;
-  top: 2370px;
-  right: 55px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-.textoEnfase05 {
-  word-break: break-all;
-  position: absolute;
-  top: 2400px;
-  right: 35px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg11 {
-  /*logo Alura    */
-  position: absolute;
-  top: 2550px;
-  right: 350px;
-      max-width: fit-content;
-    max-height: fit-content;
-}
-
-#posicaoimg12 {
-  /*logo Grupo FCamara  */
-  position: absolute;
-  top: 2550px;
-  right: 25px;
-      max-width: fit-content;
-    max-height: fit-content;
+.logoFCamara {
 }
